@@ -1,1 +1,1 @@
-# diverticulum_detect_-segment
+# diverticulum_detect_segment
